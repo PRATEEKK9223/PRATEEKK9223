@@ -1,4 +1,4 @@
-Hi this is prateek k it my resume 
+Hi this is prateek k and it my resume 
  my self prateek k I'm an engineering student<br>From JNNCE shimogga<br>
 
 
