@@ -1,5 +1,5 @@
-Hi this is prateek k it my resume
-Hi, my self prateek k I'm an engineering student<br>From JNNCE shimogga<br>
+Hi this is prateek k it my resume 
+ my self prateek k I'm an engineering student<br>From JNNCE shimogga<br>
 
 
 # 💻 Tech Stack:
